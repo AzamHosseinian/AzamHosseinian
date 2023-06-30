@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td>
-      • 🔭 I’m currently working on computer vision <br/>
+      • 🔭 I'm a Teacher Assistant at Filoger Academy <br/>
       • 🌱 I’m currently learning Datascience.<br/>
       • 👯 I’m looking to collaborate on any Project relate to AI using Machine Learning and Computer Vision.<br/>
       • 💬 Ask me about Machine Leanring,Computer Vision,Python, Architecture of Code.<br/>
