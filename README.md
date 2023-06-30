@@ -45,8 +45,6 @@
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original-wordmark.svg" alt="flask" width="45" height="45"/>
-
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/swift/swift-original-wordmark.svg" alt="swift" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/wordpress/wordpress-original.svg" alt="wordpress" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/woocommerce/woocommerce-original-wordmark.svg" alt="woocommerce" width="45" height="45"/>
 
