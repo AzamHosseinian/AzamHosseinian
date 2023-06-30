@@ -6,6 +6,7 @@
   <tr>
     <td>
       • 🌱 I’m currently learning Datascience.<br/>
+      • 🌱 I’m currently working on computer vision <br/>
       • 👯 I’m looking to collaborate on any Project relate to AI using Machine Learning and Computer Vision.<br/>
       • 💬 Ask me about Machine Leanring,Computer Vision,Python, Architecture of Code.<br/>
       • 📫 How to reach me azam.hosseinian1995@gmail.com<br/>
