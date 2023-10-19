@@ -22,8 +22,7 @@
 #### Connect with me:
 
 [<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kaggle/kaggle-original.svg" alt="kaggle" width="45" height="45"/>](https://www.kaggle.com/azalhosseinian95)
-[<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg" alt="linkedin" width="45" height="45"/>](https://www.linkedin.com/in/azamhosseinian/)
-
+[<img src="[https://github.com/devicons/devicon/blob/v2.15.1/icons/linkedin/linkedin-original.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)" alt="linkedin" width="45" height="45"/>](https://www.linkedin.com/in/azamhosseinian/)
 
 #### 🚀 Some Languages and Tools I Have Used and Learned:
 
