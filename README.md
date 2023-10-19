@@ -27,17 +27,17 @@
 #### 🚀 Some Languages and Tools I Have Used and Learned:
 
 <p align="left">
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/django/django-plain-wordmark.svg" alt="django" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/numpy/numpy-original-wordmark.svg" alt="numpy" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/opencv/opencv-original-wordmark.svg" alt="opencv" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pytorch/pytorch-original-wordmark.svg" alt="pytorch" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tensorflow/tensorflow-original-wordmark.svg" alt="tensorflow" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original-wordmark.svg" alt="flask" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/wordpress/wordpress-original.svg" alt="wordpress" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="45" height="45"/>
+<img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/woocommerce/woocommerce-original-wordmark.svg" alt="woocommerce" width="45" height="45"/>
 
 
