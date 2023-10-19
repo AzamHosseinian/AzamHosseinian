@@ -12,6 +12,7 @@
       • 📫 How to reach me azam.hosseinian1995@gmail.com<br/>
     </td>
     <td>
+      <img align="right" alt="Coding.Dev" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
      <p align="left"> <img src="https://komarev.com/ghpvc/?username=debrajrout&label=Profile%20views&color=0e75b6&style=flat" alt="debrajrout" /> </p>
     </td>
   </tr>
