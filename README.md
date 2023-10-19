@@ -9,7 +9,7 @@
       • 🌱 I’m currently learning react and Datascience and computer vision.<br/>
       • 👯 I’m looking to collaborate on any Project relate to AI using Machine Learning and Computer Vision.<br/>
       • 💬 Ask me about Machine Leanring,Computer Vision,Python, Architecture of Code.<br/>
-      • 📫 How to reach me azam.hosseinian1995@gmail.com<br/>
+      • 📫 How to reach me azam.hosseynian@yahoo.com<br/>
     </td>
     <td>
       <img align="right" alt="Coding.Dev" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
