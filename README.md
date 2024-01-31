@@ -6,9 +6,7 @@
   <tr>
     <td>
       • 🔭 I'm a Teacher Assistant at Filoger Academy <br/>
-      • 🌱 I’m currently learning react and Datascience and computer vision.<br/>
-      • 👯 I’m looking to collaborate on any Project relate to AI using Machine Learning and Computer Vision.<br/>
-      • 💬 Ask me about Machine Leanring,Computer Vision,Python, Architecture of Code.<br/>
+      • 🌱 I’m currently learning react,MUI and web3.js <br/>
       • 📫 How to reach me azam.hosseynian@yahoo.com<br/>
     </td>
     <td>
