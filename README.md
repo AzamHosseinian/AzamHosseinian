@@ -1,79 +1,63 @@
-### Hi there 👋
-![](https://komarev.com/ghpvc/?username=azamhosseinian&color=ff69b4)
-</table>
+### 👋 Hi, I'm Azam!
 
-<table>
-  <tr>
-    <td>
-      • 🔭 I'm a Teacher Assistant at Filoger Academy <br/>
-      • 🌱 I’m currently learning react,MUI and web3.js <br/>
-      • 📫 How to reach me azam.hosseynian@yahoo.com<br/>
-    </td>
-    <td>
-      <img align="right" alt="Coding.Dev" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-    </td>
-  </tr>
-</table>
+I'm a passionate **Frontend Developer** with 2+ years of experience, currently focused on building scalable, modern web apps with **React**, **MUI**, and **Tailwind CSS**.  
+I’ve worked on blockchain platforms like **DeRand**, **Im3 Protocol**, and smart AI tools like **JungoAI** and **Smart Diet**.
 
+I'm excited about turning ideas into impact — whether it's through clean code, creative UI, or open-source collaboration.  
 
+[![](https://komarev.com/ghpvc/?username=azamhosseinian&color=ff69b4)](https://github.com/azamhosseinian)
 
-#### Connect with me:
+---
 
-[<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kaggle/kaggle-original.svg" alt="kaggle" width="45" height="45"/>](https://www.kaggle.com/azalhosseinian95)
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="45" height="45"/>](https://www.linkedin.com/in/azamhosseinian/)
+### 🧠 About Me
 
-#### 🚀 Some Languages and Tools I Have Used and Learned:
+- 💻 Frontend Developer at [Muon Network](https://muon.net) (2024–Now)  
+- 🚀 Delivered full-scale apps like [DeRand](https://derand.dev), [Im3.live](https://im3.live), [Zellular.xyz](https://www.zellular.xyz), and [JungoAI.xyz](https://jungoai.xyz)  
+- 🤖 Interested in: Web3, AI for health & nutrition, and open source  
+- 🌱 Learning more about Web3.js, smart contracts, and decentralized UI  
+- 📫 Email: azal.hosseinian@gmail.com  
+
+---
+
+### 📌 Featured Projects
+ 
+- 🎥 [IM3 Protocol](https://im3.live) – Decentralized video streaming using blockchain  
+- 🔮 [DeRand Protocol](https://derand.dev) – A decentralized verifiable randomness system (VRF)  
+- 🤖 [JungoAI](https://jungoai.xyz) – Smart AI-based interface built with React + Tailwind  
+
+---
+
+### 🛠️ Languages & Tools
 
 <p align="left">
-<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/anaconda/anaconda-original-wordmark.svg" alt="anaconda" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" alt="numpy" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/pandas/pandas-original-wordmark.svg" alt="pandas" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/opencv/opencv-original-wordmark.svg" alt="opencv" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="45" height="45"/>
-<img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/woocommerce/woocommerce-original-wordmark.svg" alt="woocommerce" width="45" height="45"/>
-
-
- <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-    <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azamhosseinian&show_icons=true&locale=en&layout=compact" alt="azal" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azamhosseinian&show_icons=true&locale=en" alt="azal" /></p>
-
-
-
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mui/mui-original.svg" width="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" width="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="45" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" width="45" />
 </p>
-<!--
-**AzamHosseinian/AzamHosseinian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
+### 📊 GitHub Stats
 
-- 🔭 I’m currently working on Datascience.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azamhosseinian&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azamhosseinian&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+
+---
+
+### 🤝 Connect With Me
+
+[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="45" />](https://www.linkedin.com/in/azamhosseinian/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" alt="kaggle" width="45" />](https://www.kaggle.com/azalhosseinian95)
 
