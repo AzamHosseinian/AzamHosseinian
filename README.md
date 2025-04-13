@@ -54,6 +54,8 @@ Git & GitHub, Postman, Figma, MySQL, MongoDB
 
 ## 🤝 Connect With Me
 
-[<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="45" />](https://www.linkedin.com/in/azamhosseinian/)  
-[<img src="https://github.com/devicons/devicon/blob/master/icons/kaggle/kaggle-original.svg" alt="Kaggle" width="45" />](https://www.kaggle.com/azalhosseinian95)  
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram" />](https://t.me/azalhosseinian)
+## 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azamhosseinian/)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/azalhosseinian95)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/azalhosseinian)
