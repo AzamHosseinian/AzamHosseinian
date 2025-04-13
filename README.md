@@ -17,7 +17,7 @@ I'm a passionate **Frontend Developer** with 2+ years of experience in crafting 
   - [JungoAI](https://jungoai.xyz) – Smart AI interface  
 - 🤖 Fascinated by Web3, AI in health & nutrition, and building open-source products  
 - 🌱 Currently learning: Web3.js, smart contracts, decentralized UI patterns  
-- 📫 Reach me at: azal.hosseinian@gmail.com  
+- 📫 Reach me at: azam.hosseynian@yahoo.com 
 
 ---
 
